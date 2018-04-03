@@ -1,0 +1,6 @@
+[package]
+name = "tcp-client"
+version = "0.1.0"
+authors = ["Karuppiah N <nkaruppia@thoughtworks.com>"]
+
+[dependencies]
